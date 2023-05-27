@@ -1,0 +1,7 @@
+pandas==1.5.3
+streamlit==1.23.0
+SQLAlchemy==1.4.25
+streamlit-aggrid
+snowflake-connector-python[pandas]
+
+
